@@ -1,4 +1,4 @@
-//Unidad 1, semana 1, clase 3, ejercicio 2 (Jennifer Melara 2D #13)
+//Unidad 1, semana 1, clase 3, ejercicio 1 (Jennifer Melara 2D #13)
 #include <iostream>
 using namespace std;
 
